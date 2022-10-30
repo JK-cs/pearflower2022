@@ -1,0 +1,40 @@
+  .background {
+    width: 394px;
+    height: 843px;
+    background-image: url('../../../img/background.png');
+    position: relative;
+    z-index: 1;
+  }
+
+  .guideText {
+    position: absolute;
+    width: 270px;
+    height: 17px;
+    top: 93px;
+    left: 58px;
+    z-index: 3;
+  }
+
+  .keyWindow {
+    position: absolute;
+    width: 325px;
+    height: 214px;
+    top: 131px;
+    left: 33px;
+  }
+
+  .door {
+    position: absolute;
+    width: 301px;
+    height: 291px;
+    top: 369px;
+    left: 49px;
+  }
+
+  .character {
+    position: absolute;
+    width: 342px;
+    height: 171px;
+    top: 664px;
+    left: 31px;
+  }
