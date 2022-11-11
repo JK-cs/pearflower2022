@@ -38,3 +38,11 @@
     top: 664px;
     left: 31px;
   }
+
+  .key {
+    position: absolute;
+    width: 59px;
+    height: 46.7px;
+    top: 280px;
+    left: 168px;
+  }

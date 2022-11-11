@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 import Header from '../Header/Header'
 import './GamePage.css'
 import guideText from '../../../img/guideText.png'
-import window from '../../../img/noKeyWindow.png'
+import window from '../../../img/window.png'
 import door from '../../../img/withKeyDoor.png'
 import character from '../../../img/gameCharacter.png'
 
